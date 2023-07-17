@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#Deployed [Live Demo](https://todo-list-redux.mehraasahil.repl.co/)
+# [Live Demo](https://todo-list-redux.mehraasahil.repl.co/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
