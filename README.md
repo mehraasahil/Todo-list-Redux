@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 # [Live Demo Todo App](https://todo-list-redux.mehraasahil.repl.co/)
 
+![Screenshot (10)](https://github.com/mehraasahil/Todo-list-Redux/assets/118424866/701431a0-5071-44a5-b70e-452db6e469bf)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
